@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1806ccc5.css",
+    "main.js": "/portfolio/static/js/main.cb93b357.js",
+    "static/media/banner-bg.png": "/portfolio/static/media/banner-bg.9d3d930c49bf176f1b53.png",
+    "static/media/skills-bg.png": "/portfolio/static/media/skills-bg.664404681e35758f865b.png",
+    "static/media/header-img.png": "/portfolio/static/media/header-img.aad1dcb5fb8176aa82d1.png",
+    "static/media/project-img1.png": "/portfolio/static/media/project-img1.3aa4d23f67b1f96a67bc.png",
+    "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/stars.svg": "/portfolio/static/media/stars.3803385590028db2e6a41c584f8a6171.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/github.svg": "/portfolio/static/media/github.6d7cb0a0ec8d59bc8a15e8a4d1384aab.svg",
+    "main.1806ccc5.css.map": "/portfolio/static/css/main.1806ccc5.css.map",
+    "main.cb93b357.js.map": "/portfolio/static/js/main.cb93b357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1806ccc5.css",
+    "static/js/main.cb93b357.js"
+  ]
+}
