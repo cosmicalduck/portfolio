@@ -1,0 +1,36 @@
+.skills {
+  padding: 0 0 30px 0;
+  position: relative;
+  background-image: url('../assets/img/skills-bg.png');
+  background-position: bottom left;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.skill-bx {
+  background: rgb(42, 29, 85);
+  /* background: linear-gradient(162deg, rgba(42, 29, 85, 1) 0%, rgba(169, 16, 100, 1) 100%); */
+  border-radius: 64px;
+  text-align: center;
+  padding: 60px 50px;
+  margin-top: -60px;
+  margin-bottom: 30px;
+}
+
+.skill h2 {
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+
+.skill-slider {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.skill-slider .item img {
+  width: 50%;
+  margin: 0 auto 15px auto;
+}

@@ -1,0 +1,15 @@
+.github-icon {
+  width: 40px;
+  height: 40px;
+}
+
+.title {
+  color: #1b1b1b !important;
+  font-weight: bold !important;
+}
+
+.description {
+  color: #1b1b1b !important;
+  width: 100% !important;
+  text-align: left !important;
+}
