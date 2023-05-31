@@ -8,7 +8,7 @@ Based on [judygab porfolio](https://github.com/judygab/web-dev-projects/tree/mai
 
 1. Install the necessary dependencies with `npm install` 
 
-2. Start the development severver with  `npm start`
+2. Start the development server with  `npm start`
 
 3. In your browser, go to  http://localhost:3000 to view it in the browser to view it.
 
